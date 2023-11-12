@@ -27,5 +27,3 @@ For more information, see these info pages:
 - [Projects](./projects.md)
 - [Skills](./skills.md)
 - [Syndicates](./syndicates.md)
-- [Terrain](./terrain.md)
-- [Traits](./traits.md)
